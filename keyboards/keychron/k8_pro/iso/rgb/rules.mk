@@ -1,1 +1,1 @@
-# This file intentionally blank
+UNICODEMAP_ENABLE = yes
