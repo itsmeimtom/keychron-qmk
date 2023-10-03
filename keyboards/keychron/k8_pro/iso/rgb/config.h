@@ -46,4 +46,4 @@
 #endif
 
 // todo: cycling for macos/win/linux
-#define UNICODE_SELECTED_MODES UNICODE_MODE_WINDOWS
+#define UNICODE_SELECTED_MODES UNICODE_MODE_WINCOMPOSE
